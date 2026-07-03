@@ -23,6 +23,3 @@ $\color{#9d4edd}{\text{𝙏𝙝𝙚 𝙣𝙖𝙢𝙚 𝗶𝘀}}$
 <img src="https://64.media.tumblr.com/bda59595f483244cff7e443051731158/67498cc8a8d5e67d-70/s1280x1920/872114c2ebd8e5905feca0cb9baad40ef3efcd50.jpg"width="500">
 
 <a href="https://slit2wrist.atabook.org/"><img src="https://img.shields.io/badge/Sign-ata here! (⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠)-4a148c?style=for-the-badge" /></a>
-<a href="https://en.pronouns.page/@trucejuicy"><img src="https://img.shields.io/badge/pronous-h_e_r_e_(⁠´⁠⊙w⊙⁠`⁠)-4a148c?style=for-the-badge" /></a>
-
-  
