@@ -1,11 +1,11 @@
+
 <div align="center">
-  <img src="https://64.media.tumblr.com/ae8124dc093f86361995ba85cb1e21f2/da1ecf2bdff58323-f3/s400x600/dab83c1bd7472f3f8c54658b126fa942ac755f65.gifv" width="400">
+  <img src="https://64.media.tumblr.com/58aba6f0be71ec5287077b75a6f5997e/d94b802d8374a07a-bd/s1280x1920/7d18a7005d4265402f96d27cf4594417e1c43e26.jpg"" width="100%" alt="Banner">
+  <br><br>
+ <img src="https://img.shields.io/badge/Τ𝗋υc౿-♥-purple?style=flat-square" height="20" /> <img src="https://img.shields.io/badge/Dαɾk-ᥴᥲᥴᥲo-purple?style=flat-square" height="20" /> <img src="https://img.shields.io/badge/𝐀𐓣𝖼𝗂ent-𝘬𝘪𝘯g-purple?style=flat-square" height="20" />  
 </div>
 
-$\color{#FCBDA8}{\text{Free to c*h and int}}$
-
-[![My Spotify Widget](https://spotify-github-profile.kittinanx.com/api/view?uid=31lvkktuzpj5eaezyevhb3oueaby&cover_image=true&theme=default&show_offline=true&background_color=4D405D&interchange=false&profanity=false&hide_remaster=false&bar_color=FCBDA8)](https://open.spotify.com/user/31lvkktuzpj5eaezyevhb3oueaby)
-
-<a href="https://slit2wrist.atabook.org/">ᦓꪱᧁꪀ ata hꫀrꫀ </a> &nbsp;&nbsp; | &nbsp;&nbsp; 
-  <a href="https://en.pronouns.page/@trucejuicy">ρɾσɳσυɳʂ </a> &nbsp;&nbsp; | &nbsp;&nbsp; 
-  <a href="https://guns.lol/slit2wrists">Aժժ ʍҽ</a>
+<td width="40%" align="center" valign="middle">
+      <img src="https://64.media.tumblr.com/7f3657532a9c771ec0f91658a8cef4c8/5924894fc0239b71-c7/s75x75_c1/423511de215f38ebbdd3fe653f3c7b4914c64af9.gifv" width="60%">
+    </td>
+    
